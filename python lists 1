@@ -1,0 +1,14 @@
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
+print(thislist[0])
+
+thislist = ["apple", "banana", "cherry", "apple", "cherry"]
+print(thislist)
+print(len(thislist))
+
+mylist = ["apple", "banana", "cherry"]
+print(type(mylist))
+
+
+thislist = list(("apple", "banana", "cherry"))
+print(thislist)
