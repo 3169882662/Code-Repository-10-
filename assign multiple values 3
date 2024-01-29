@@ -1,0 +1,5 @@
+boyfriends = ["ZYJ","JYZ", "YJZ"]
+x, y, z = boyfriends
+print(x)
+print(y)
+print(z)  
