@@ -1,0 +1,9 @@
+x = 49
+y = -1.10
+z = 593j
+
+print(type(x))
+print(type(y))
+print(type(z))
+
+
