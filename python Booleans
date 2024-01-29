@@ -1,0 +1,17 @@
+a = "Hello"
+b = 30
+print(bool(a))
+print(bool(b))
+
+print(bool(0))
+
+print(bool(False))
+
+print(bool(""))
+
+class myclass():
+  def __len__(self):
+    return 0
+
+myobj = myclass()
+print(bool(myobj))
