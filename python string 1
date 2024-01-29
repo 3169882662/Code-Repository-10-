@@ -1,0 +1,10 @@
+print("Hello, World")
+
+a = "Hello, World"
+print(a)
+
+b = """ZYJ
+is
+my
+boyfriend."""
+print(b)
