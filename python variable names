@@ -1,0 +1,10 @@
+myboyfriend = "ZYJ"
+my_boy_friend = "ZYJ"
+_my_boy_friend = "ZYJ"
+myBoyfriend = "ZYJ"
+MYBOYFRIEND = "ZYJ"
+myboyfriend3 = "ZYJ"
+
+#Wrong example: 3myboyfriend = "ZYJ"
+#Wrong example 2: my-boyfriend = "ZYJ"
+#Wrong example 3: my boyfriend = "ZYJ"
