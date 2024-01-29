@@ -1,0 +1,14 @@
+a = "zyj is my boyfriend!"
+print(a.upper())
+
+b = "ZYJ is My Boyfriend"
+print(b.lower())
+
+c = "    ZYJ is my boyfriend   "
+print(c.strip())
+
+d = "ZYJ is my boyfriend"
+print(d.replace("boy","girl"))
+
+e = "ZYJ is my boyfriend"
+print(e.split("is"))
