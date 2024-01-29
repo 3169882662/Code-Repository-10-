@@ -1,0 +1,4 @@
+x, y ,z = "ZYJ", "JYZ", "YJZ"
+print(x)
+print(y)
+print(z)
