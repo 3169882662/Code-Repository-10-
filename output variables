@@ -1,0 +1,9 @@
+x = "ZYJ is my boyfriend"
+print(x)
+
+X = "ZYJ"
+Y = "is"
+Z = "my boyfriend"
+print(X, Y, Z)
+print(X + Y + Z)
+#which is same as print(X + Y + Z), but there is no space
