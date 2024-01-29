@@ -1,0 +1,22 @@
+fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+newlist = []
+
+for x in fruits:
+  if "a" in x:
+    newlist.append(x)
+
+print(newlist)
+
+
+fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+Newlist = [x for x in fruits if "a" in x]
+print(Newlist)
+
+applelist = [x for x in fruits if x != "apple"]
+print(applelist)
+
+n2ewlist = [x.upper() for x in fruits]
+print(n2ewlist)
+
+n3ewlist = [x if x != "banana" else "orange" for x in fruits]
+print(n3ewlist)
