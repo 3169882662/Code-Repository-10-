@@ -1,0 +1,7 @@
+x = 5
+y = "ZYJ"
+z = 6.00
+
+print(type(x))
+print(type(y))
+print(type(z))
