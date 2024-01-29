@@ -1,0 +1,15 @@
+x = 49      #x is int
+y = -1.10   #y is float
+z = 593j    #z is complex
+
+a = float(x)
+b = int(y)
+c = complex(x)
+
+print(a)
+print(b)
+print(c)
+
+print(type(a))
+print(type(b))
+print(type(c))
