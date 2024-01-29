@@ -1,0 +1,28 @@
+a = "ZYJ is my boyfriend"
+print(a[8])
+
+
+for x in "banana":
+  print(x)
+
+
+b = "ZYJ is my boyfriend!"
+print(len(b))
+
+
+txt = "ZYJ is my boyfriend"
+print("boyfriend" in txt)
+
+
+txt = "ZYJ is my boyfriend"
+if "boyfriend" in txt:
+  print("Yes, 'boyfriend' is present.")
+
+
+txt= "ZYJ is my boyfriend"
+print("girlfriend" not in txt)
+
+
+txt = "ZYJ is my girlfriend"
+if "girlfriend" not in txt:
+  print("No,'girlfrient' is Not present."
