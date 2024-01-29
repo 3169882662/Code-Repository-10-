@@ -1,0 +1,12 @@
+y = "boyfriend"
+def myfunc1():
+    y = "girlfriend"
+    print("ZYJ is " + y)
+myfunc1()
+
+print("ZYJ is " + y)
+
+def myfunc1():
+    y = "girlfriend"
+    print("ZYJ is " + y)
+myfunc1()
