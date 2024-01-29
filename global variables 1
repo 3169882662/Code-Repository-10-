@@ -1,0 +1,4 @@
+x = "boyfriend"
+def myfunc():
+    print("ZYJ is " + x)
+myfunc()
