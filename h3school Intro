@@ -1,0 +1,6 @@
+A = 5
+B = 2
+if A < B:
+    print("A is greater than B")
+else: 
+    print("B is greater than A")
